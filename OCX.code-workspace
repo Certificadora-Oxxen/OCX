@@ -13,32 +13,18 @@
 		"omnipascal.delphiInstallationPath": "C:\\Borland\\Delphi7",
 		"omnipascal.defaultDevelopmentEnvironment": "Delphi",
 		"omnipascal.namingConventionString": "pascalCase",
-		"omnipascal.searchPath": "C:\\Borland\\Delphi7\\Lib;C:\\Borland\\Delphi7\\Bin;C:\\Borland\\Delphi7\\Imports;C:\\Borland\\Delphi7\\Projects\\Bpl;C:\\Borland\\Delphi7\\Rave5\\Lib;G:\\Meu Drive\\Projetos\\Herdom\\OCX-Boitata\\Build",
+		"omnipascal.searchPath": "C:\\Borland\\Delphi7\\Lib;C:\\Borland\\Delphi7\\Bin;C:\\Borland\\Delphi7\\Imports;C:\\Borland\\Delphi7\\Projects\\Bpl;C:\\Borland\\Delphi7\\Rave5\\Lib;G:\\Meu Drive\\Projetos\\Herdom\\Lib\\DCU7;G:\\Meu Drive\\Projetos\\Herdom\\Lib\\Bpl",
 		"files.autoGuessEncoding": false,
-		"files.encoding": "utf8",
-		"files.autoSave": "onFocusChange",
 		"files.associations": {
 			"*.pass": "pass",
 			"*.~pass": "pass2",
 			"*.inc": "inc",
 			"*.res": "res",
-			"*.cfg": "cfg"
+			"*.cfg": "cfg",
+			"*.dof": "dof"
 		},
-		"[pas]": {
-			"files.encoding": "iso88591"
-		},
-		"[pass2]": {
-			"files.encoding": "iso88591"
-		},
-		"[inc]": {
-			"files.encoding": "iso88591"
-		},
-		"[res]": {
-			"files.encoding": "iso88591"
-		},
-		"[cfg]": {
-			"files.encoding": "iso88591"
-		},
+		"files.encoding": "iso88591",
+		"files.autoSave": "onFocusChange",
 		"files.exclude": {
 			"**/.git": true,
 			"**/.svn": true,
@@ -57,7 +43,7 @@
 				"label": "Compilar OCX",
 				"type": "shell",
 				"command": "dcc32",
-				"args": ["-B", "OCX/Boitata.dpr"],
+				"args": ["-B", "G:\\Meu Drive\\Projetos\\Herdom\\OCX-Boitata\\Boitata.dpr"],
 				"problemMatcher": [],
 				"presentation": {
 					"reveal": "always"

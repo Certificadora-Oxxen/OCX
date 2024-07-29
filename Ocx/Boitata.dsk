@@ -1,0 +1,2797 @@
+[Closed Files]
+File_0=SourceModule,'F:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uIntClassesBasicas.pas',0,1,1504,1,1522,0,0
+
+[Modules]
+Module0=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uIntInterfaceSisbov.pas
+Module1=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uInventariosCodigosSisbov.pas
+Module2=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uInventariosAnimais.pas
+Module3=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uTiposPropriedades.pas
+Module4=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uDownloads.pas
+Module5=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uIdentificacoesBancarias.pas
+Module6=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uBoletosBancario.pas
+Module7=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uBoletoBancario.pas
+Module8=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uMenus.pas
+Module9=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uSituacoesArqImport.pas
+Module10=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uImportacaoFabricante.pas
+Module11=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uImportacoesFabricante.pas
+Module12=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uAplicativos.pas
+Module13=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uRotinasFTPEnvio.pas
+Module14=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uSituacoesFTP.pas
+Module15=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uSituacoesEmail.pas
+Module16=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uTiposEmail.pas
+Module17=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uSituacoesCodigoSISBOV.pas
+Module18=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uEmailsEnvio.pas
+Module19=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uEmailEnvio.pas
+Module20=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uRotinasFTPRetorno.pas
+Module21=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uEnderecos.pas
+Module22=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uArquivosFTPRetorno.pas
+Module23=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uArquivoFTPRetorno.pas
+Module24=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uArquivosRemessaPedido.pas
+Module25=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uArquivoRemessaPedido.pas
+Module26=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uOrdemServicoResumida.pas
+Module27=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uOrdensServico.pas
+Module28=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uSituacoesOS.pas
+Module29=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uProdutosAcessorios.pas
+Module30=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uIdentificacoesDuplas.pas
+Module31=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uFabricantesIdentificador.pas
+Module32=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uFabricanteIdentificador.pas
+Module33=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uFormasPagamentoOS.pas
+Module34=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uOcorrenciasSistema.pas
+Module35=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uOcorrenciaSistema.pas
+Module36=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uFormasPagamentoIdentificador.pas
+Module37=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uArquivosFTPEnvio.pas
+Module38=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uArquivoFTPEnvio.pas
+Module39=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uRegimesPosseUso.pas
+Module40=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uTiposOrigemArqImport.pas
+Module41=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uTipoOrigemArqImport.pas
+Module42=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uImportacoesSISBOV.pas
+Module43=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uImportacaoSISBOV.pas
+Module44=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uImportacaoDadoGeral.pas
+Module45=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uImportacoesDadoGeral.pas
+Module46=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uMotivosDescarte.pas
+Module47=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\UGrausDificuldade.pas
+Module48=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\USituacoesCria.pas
+Module49=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uCaracteristicaAvaliacao.pas
+Module50=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\UCaracteristicasAvaliacao.pas
+Module51=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uTipoAvaliacao.pas
+Module52=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uTiposAvaliacao.pas
+Module53=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uTiposMovimentoEstoqueSemen.pas
+Module54=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uEstoqueSemen.pas
+Module55=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uMovimentoEstoqueSemen.pas
+Module56=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\USituacoesTarefa.pas
+Module57=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uTarefas.pas
+Module58=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uTarefa.pas
+Module59=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uAgrupamentosRacas.pas
+Module60=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uAgrupamentoRacas.pas
+Module61=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uTiposAgrupamentoRacas.pas
+Module62=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uTipoAgrupamentoRacas.pas
+Module63=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uImportacao.pas
+Module64=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uImportacoes.pas
+Module65=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uModelosCertificado.pas
+Module66=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uParametrosPesoAjustado.pas
+Module67=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uReprodutoresMultiplos.pas
+Module68=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uReprodutorMultiplo.pas
+Module69=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uAnimalVisita.pas
+Module70=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uAnimaisVisita.pas
+Module71=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uArquivoSisbov.pas
+Module72=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uTiposSubEventoSanitario.pas
+Module73=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uTiposArquivoSisBov.pas
+Module74=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uInterfaceSisbov.pas
+Module75=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uLargurasLinhaRelatorio.pas
+Module76=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uTamanhosFonte.pas
+Module77=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uOrientacoes.pas
+Module78=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uRelatorio.pas
+Module79=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uRelatorios.pas
+Module80=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uEntradasInsumo.pas
+Module81=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uEntradaInsumo.pas
+Module82=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uInsumos.pas
+Module83=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uInsumo.pas
+Module84=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uMudancasCategoriaAnimal.pas
+Module85=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uEventos.pas
+Module86=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uEvento.pas
+Module87=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uFabricantesInsumo.pas
+Module88=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uFabricanteInsumo.pas
+Module89=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uUnidadesMedida.pas
+Module90=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uUnidadeMedida.pas
+Module91=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\USubTiposInsumo.pas
+Module92=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\USubTipoInsumo.pas
+Module93=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\UTiposInsumo.pas
+Module94=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\UTipoInsumo.pas
+Module95=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uTiposEvento.pas
+Module96=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uGruposEvento.pas
+Module97=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uGrandezasResumo.pas
+Module98=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uParametro.pas
+Module99=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\UIdentificadorDoProdutor.pas
+Module100=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uPessoasContatos.pas
+Module101=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\USituacoesSisBov.pas
+Module102=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\UtiposLugar.pas
+Module103=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uGrauSangue.pas
+Module104=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uAssociacaoRaca.pas
+Module105=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uRegistro.pas
+Module106=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uFiliacao.pas
+Module107=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uAnimalResumido.pas
+Module108=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uPosicoesIdentificador.pas
+Module109=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uGrausInstrucao.pas
+Module110=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uCausasMorte.pas
+Module111=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uTiposMorte.pas
+Module112=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uEspecies.pas
+Module113=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uAptidoes.pas
+Module114=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uPropriedadesRurais.pas
+Module115=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uPropriedadeRural.pas
+Module116=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uMicroRegiao.pas
+Module117=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uTiposEndereco.pas
+Module118=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uTiposContato.pas
+Module119=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uEstado.pas
+Module120=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uPais.pas
+Module121=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uPessoa.pas
+Module122=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uOpcoesEnvioComunicado.pas
+Module123=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uFazendaTrabalho.pas
+Module124=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uPessoasSecundarias.pas
+Module125=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uPapeisSecundarios.pas
+Module126=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uPessoaSecundaria.pas
+Module127=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uPelagem.pas
+Module128=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uLocalidades.pas
+Module129=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uLocalidade.pas
+Module130=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uRaca.pas
+Module131=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uLotes.pas
+Module132=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uLote.pas
+Module133=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uAnimais.pas
+Module134=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uAnimal.pas
+Module135=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uTiposFonteAgua.pas
+Module136=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uCategoriasAnimal.pas
+Module137=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uTiposIdentificador.pas
+Module138=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uGrausSangue.pas
+Module139=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uAssociacoesRaca.pas
+Module140=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uRegimesAlimentares.pas
+Module141=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uFazenda.pas
+Module142=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uFazendas.pas
+Module143=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uTiposOrigem.pas
+Module144=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uLocais.pas
+Module145=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uLocal.pas
+Module146=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uPelagens.pas
+Module147=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uRacas.pas
+Module148=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uMicroRegioes.pas
+Module149=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uEstados.pas
+Module150=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uCodigosSisbov.pas
+Module151=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uPaises.pas
+Module152=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uMotivosBloqueio.pas
+Module153=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uMotivoBloqueio.pas
+Module154=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uAcessoAssociacaoProdutor.pas
+Module155=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uAcessoTecnicoProdutor.pas
+Module156=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uComunicados.pas
+Module157=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uComunicado.pas
+Module158=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uUsuarios.pas
+Module159=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uPapeis.pas
+Module160=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uPessoas.pas
+Module161=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uAcesso.pas
+Module162=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uProdutor.pas
+Module163=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uBloqueio.pas
+Module164=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uItemMenu.pas
+Module165=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uUsuario.pas
+Module166=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uResultadosAnuncio.pas
+Module167=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uProgramas.pas
+Module168=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uPrograma.pas
+Module169=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uAnunciantes.pas
+Module170=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uAnunciante.pas
+Module171=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uTiposTarget.pas
+Module172=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uPaginas.pas
+Module173=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uBannersDefault.pas
+Module174=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uGruposPaginas.pas
+Module175=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uGrupoPaginas.pas
+Module176=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uLayoutsPagina.pas
+Module177=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uTiposPagina.pas
+Module178=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uTiposBanner.pas
+Module179=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uBannersVisita.pas
+Module180=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uBanners.pas
+Module181=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uBanner.pas
+Module182=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uMensagens.pas
+Module183=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uMensagem.pas
+Module184=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uVisita.pas
+Module185=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uSessao.pas
+Module186=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\Boitata.dpr
+Count=187
+EditWindowCount=1
+TypeLibWindowCount=1
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uIntInterfaceSisbov.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uInventariosCodigosSisbov.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uInventariosAnimais.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uTiposPropriedades.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uDownloads.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uIdentificacoesBancarias.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uBoletosBancario.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uBoletoBancario.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uMenus.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uSituacoesArqImport.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uImportacaoFabricante.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uImportacoesFabricante.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uAplicativos.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uRotinasFTPEnvio.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uSituacoesFTP.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uSituacoesEmail.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uTiposEmail.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uSituacoesCodigoSISBOV.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uEmailsEnvio.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uEmailEnvio.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uRotinasFTPRetorno.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uEnderecos.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uArquivosFTPRetorno.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uArquivoFTPRetorno.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uArquivosRemessaPedido.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uArquivoRemessaPedido.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uOrdemServicoResumida.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uOrdensServico.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uSituacoesOS.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uProdutosAcessorios.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uIdentificacoesDuplas.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uFabricantesIdentificador.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uFabricanteIdentificador.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uFormasPagamentoOS.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uOcorrenciasSistema.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uOcorrenciaSistema.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uFormasPagamentoIdentificador.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uArquivosFTPEnvio.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uArquivoFTPEnvio.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uRegimesPosseUso.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uTiposOrigemArqImport.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uTipoOrigemArqImport.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uImportacoesSISBOV.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uImportacaoSISBOV.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uImportacaoDadoGeral.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uImportacoesDadoGeral.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uMotivosDescarte.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\UGrausDificuldade.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\USituacoesCria.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uCaracteristicaAvaliacao.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\UCaracteristicasAvaliacao.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uTipoAvaliacao.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uTiposAvaliacao.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uTiposMovimentoEstoqueSemen.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uEstoqueSemen.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uMovimentoEstoqueSemen.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\USituacoesTarefa.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uTarefas.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uTarefa.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uAgrupamentosRacas.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uAgrupamentoRacas.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uTiposAgrupamentoRacas.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uTipoAgrupamentoRacas.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uImportacao.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uImportacoes.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uModelosCertificado.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uParametrosPesoAjustado.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uReprodutoresMultiplos.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uReprodutorMultiplo.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uAnimalVisita.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uAnimaisVisita.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uArquivoSisbov.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uTiposSubEventoSanitario.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uTiposArquivoSisBov.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uInterfaceSisbov.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uLargurasLinhaRelatorio.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uTamanhosFonte.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uOrientacoes.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uRelatorio.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uRelatorios.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uEntradasInsumo.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uEntradaInsumo.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uInsumos.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uInsumo.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uMudancasCategoriaAnimal.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uEventos.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uEvento.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uFabricantesInsumo.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uFabricanteInsumo.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uUnidadesMedida.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uUnidadeMedida.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\USubTiposInsumo.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\USubTipoInsumo.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\UTiposInsumo.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\UTipoInsumo.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uTiposEvento.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uGruposEvento.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uGrandezasResumo.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uParametro.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\UIdentificadorDoProdutor.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uPessoasContatos.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\USituacoesSisBov.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\UtiposLugar.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uGrauSangue.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uAssociacaoRaca.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uRegistro.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uFiliacao.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uAnimalResumido.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uPosicoesIdentificador.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uGrausInstrucao.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uCausasMorte.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uTiposMorte.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uEspecies.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uAptidoes.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uPropriedadesRurais.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uPropriedadeRural.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uMicroRegiao.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uTiposEndereco.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uTiposContato.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uEstado.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uPais.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uPessoa.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uOpcoesEnvioComunicado.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uFazendaTrabalho.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uPessoasSecundarias.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uPapeisSecundarios.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uPessoaSecundaria.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uPelagem.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uLocalidades.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uLocalidade.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uRaca.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uLotes.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uLote.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uAnimais.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uAnimal.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uTiposFonteAgua.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uCategoriasAnimal.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uTiposIdentificador.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uGrausSangue.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uAssociacoesRaca.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uRegimesAlimentares.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uFazenda.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uFazendas.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uTiposOrigem.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uLocais.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uLocal.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uPelagens.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uRacas.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uMicroRegioes.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uEstados.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uCodigosSisbov.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uPaises.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uMotivosBloqueio.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uMotivoBloqueio.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uAcessoAssociacaoProdutor.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uAcessoTecnicoProdutor.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uComunicados.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uComunicado.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uUsuarios.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uPapeis.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uPessoas.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uAcesso.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uProdutor.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uBloqueio.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uItemMenu.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uUsuario.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uResultadosAnuncio.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uProgramas.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uPrograma.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uAnunciantes.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uAnunciante.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uTiposTarget.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uPaginas.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uBannersDefault.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uGruposPaginas.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uGrupoPaginas.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uLayoutsPagina.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uTiposPagina.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uTiposBanner.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uBannersVisita.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uBanners.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uBanner.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uMensagens.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uMensagem.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uVisita.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uSessao.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\Boitata.dpr]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[C:\Program Files\Borland\Delphi7\Projects\ProjectGroup1.bpg]
+FormState=0
+FormOnTop=0
+
+[G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\Boitata.tlb]
+FormState=0
+FormOnTop=0
+
+[EditWindow0]
+ViewCount=187
+CurrentView=1
+View0=0
+View1=1
+View2=2
+View3=3
+View4=4
+View5=5
+View6=6
+View7=7
+View8=8
+View9=9
+View10=10
+View11=11
+View12=12
+View13=13
+View14=14
+View15=15
+View16=16
+View17=17
+View18=18
+View19=19
+View20=20
+View21=21
+View22=22
+View23=23
+View24=24
+View25=25
+View26=26
+View27=27
+View28=28
+View29=29
+View30=30
+View31=31
+View32=32
+View33=33
+View34=34
+View35=35
+View36=36
+View37=37
+View38=38
+View39=39
+View40=40
+View41=41
+View42=42
+View43=43
+View44=44
+View45=45
+View46=46
+View47=47
+View48=48
+View49=49
+View50=50
+View51=51
+View52=52
+View53=53
+View54=54
+View55=55
+View56=56
+View57=57
+View58=58
+View59=59
+View60=60
+View61=61
+View62=62
+View63=63
+View64=64
+View65=65
+View66=66
+View67=67
+View68=68
+View69=69
+View70=70
+View71=71
+View72=72
+View73=73
+View74=74
+View75=75
+View76=76
+View77=77
+View78=78
+View79=79
+View80=80
+View81=81
+View82=82
+View83=83
+View84=84
+View85=85
+View86=86
+View87=87
+View88=88
+View89=89
+View90=90
+View91=91
+View92=92
+View93=93
+View94=94
+View95=95
+View96=96
+View97=97
+View98=98
+View99=99
+View100=100
+View101=101
+View102=102
+View103=103
+View104=104
+View105=105
+View106=106
+View107=107
+View108=108
+View109=109
+View110=110
+View111=111
+View112=112
+View113=113
+View114=114
+View115=115
+View116=116
+View117=117
+View118=118
+View119=119
+View120=120
+View121=121
+View122=122
+View123=123
+View124=124
+View125=125
+View126=126
+View127=127
+View128=128
+View129=129
+View130=130
+View131=131
+View132=132
+View133=133
+View134=134
+View135=135
+View136=136
+View137=137
+View138=138
+View139=139
+View140=140
+View141=141
+View142=142
+View143=143
+View144=144
+View145=145
+View146=146
+View147=147
+View148=148
+View149=149
+View150=150
+View151=151
+View152=152
+View153=153
+View154=154
+View155=155
+View156=156
+View157=157
+View158=158
+View159=159
+View160=160
+View161=161
+View162=162
+View163=163
+View164=164
+View165=165
+View166=166
+View167=167
+View168=168
+View169=169
+View170=170
+View171=171
+View172=172
+View173=173
+View174=174
+View175=175
+View176=176
+View177=177
+View178=178
+View179=179
+View180=180
+View181=181
+View182=182
+View183=183
+View184=184
+View185=185
+View186=186
+CodeExplorer=CodeExplorer@EditWindow0
+MessageView=MessageView@EditWindow0
+Create=1
+Visible=1
+State=2
+Left=200
+Top=126
+Width=1720
+Height=682
+MaxLeft=-4
+MaxTop=101
+MaxWidth=1928
+MaxHeight=953
+ClientWidth=1920
+ClientHeight=926
+LeftPanelSize=0
+LeftPanelClients=CodeExplorer@EditWindow0
+LeftPanelData=00000400010000000C000000436F64654578706C6F726572000000000000000000000000000000000001000000000000000000000000FFFFFFFF
+RightPanelSize=0
+BottomPanelSize=104
+BottomPanelClients=MessageView@EditWindow0
+BottomPanelData=000004000000000000000000000000000000000000000000000100000000000000000B0000004D65737361676556696577FFFFFFFF
+
+[View0]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\Boitata.dpr
+CursorX=106
+CursorY=21
+TopLine=1
+LeftCol=1
+
+[View1]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uIntInterfaceSisbov.pas
+CursorX=4
+CursorY=5206
+TopLine=5184
+LeftCol=1
+
+[View2]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uSessao.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View3]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uVisita.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View4]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uMensagem.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View5]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uMensagens.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View6]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uBanner.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View7]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uBanners.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View8]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uBannersVisita.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View9]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uTiposBanner.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View10]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uTiposPagina.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View11]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uLayoutsPagina.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View12]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uGrupoPaginas.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View13]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uGruposPaginas.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View14]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uBannersDefault.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View15]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uPaginas.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View16]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uTiposTarget.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View17]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uAnunciante.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View18]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uAnunciantes.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View19]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uPrograma.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View20]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uProgramas.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View21]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uResultadosAnuncio.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View22]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uUsuario.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View23]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uItemMenu.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View24]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uBloqueio.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View25]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uProdutor.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View26]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uAcesso.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View27]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uPessoas.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View28]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uPapeis.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View29]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uUsuarios.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View30]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uComunicado.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View31]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uComunicados.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View32]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uAcessoTecnicoProdutor.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View33]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uAcessoAssociacaoProdutor.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View34]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uMotivoBloqueio.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View35]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uMotivosBloqueio.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View36]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uPaises.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View37]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uCodigosSisbov.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View38]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uEstados.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View39]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uMicroRegioes.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View40]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uRacas.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View41]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uPelagens.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View42]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uLocal.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View43]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uLocais.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View44]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uTiposOrigem.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View45]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uFazendas.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View46]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uFazenda.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View47]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uRegimesAlimentares.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View48]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uAssociacoesRaca.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View49]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uGrausSangue.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View50]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uTiposIdentificador.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View51]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uCategoriasAnimal.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View52]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uTiposFonteAgua.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View53]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uAnimal.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View54]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uAnimais.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View55]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uLote.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View56]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uLotes.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View57]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uRaca.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View58]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uLocalidade.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View59]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uLocalidades.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View60]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uPelagem.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View61]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uPessoaSecundaria.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View62]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uPapeisSecundarios.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View63]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uPessoasSecundarias.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View64]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uFazendaTrabalho.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View65]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uOpcoesEnvioComunicado.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View66]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uPessoa.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View67]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uPais.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View68]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uEstado.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View69]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uTiposContato.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View70]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uTiposEndereco.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View71]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uMicroRegiao.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View72]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uPropriedadeRural.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View73]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uPropriedadesRurais.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View74]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uAptidoes.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View75]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uEspecies.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View76]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uTiposMorte.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View77]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uCausasMorte.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View78]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uGrausInstrucao.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View79]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uPosicoesIdentificador.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View80]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uAnimalResumido.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View81]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uFiliacao.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View82]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uRegistro.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View83]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uAssociacaoRaca.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View84]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uGrauSangue.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View85]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\UtiposLugar.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View86]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\USituacoesSisBov.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View87]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uPessoasContatos.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View88]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\UIdentificadorDoProdutor.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View89]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uParametro.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View90]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uGrandezasResumo.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View91]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uGruposEvento.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View92]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uTiposEvento.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View93]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\UTipoInsumo.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View94]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\UTiposInsumo.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View95]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\USubTipoInsumo.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View96]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\USubTiposInsumo.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View97]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uUnidadeMedida.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View98]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uUnidadesMedida.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View99]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uFabricanteInsumo.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View100]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uFabricantesInsumo.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View101]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uEvento.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View102]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uEventos.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View103]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uMudancasCategoriaAnimal.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View104]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uInsumo.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View105]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uInsumos.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View106]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uEntradaInsumo.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View107]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uEntradasInsumo.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View108]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uRelatorios.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View109]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uRelatorio.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View110]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uOrientacoes.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View111]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uTamanhosFonte.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View112]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uLargurasLinhaRelatorio.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View113]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uInterfaceSisbov.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View114]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uTiposArquivoSisBov.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View115]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uTiposSubEventoSanitario.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View116]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uArquivoSisbov.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View117]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uAnimaisVisita.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View118]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uAnimalVisita.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View119]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uReprodutorMultiplo.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View120]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uReprodutoresMultiplos.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View121]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uParametrosPesoAjustado.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View122]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uModelosCertificado.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View123]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uImportacoes.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View124]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uImportacao.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View125]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uTipoAgrupamentoRacas.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View126]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uTiposAgrupamentoRacas.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View127]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uAgrupamentoRacas.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View128]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uAgrupamentosRacas.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View129]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uTarefa.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View130]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uTarefas.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View131]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\USituacoesTarefa.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View132]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uMovimentoEstoqueSemen.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View133]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uEstoqueSemen.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View134]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uTiposMovimentoEstoqueSemen.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View135]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uTiposAvaliacao.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View136]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uTipoAvaliacao.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View137]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\UCaracteristicasAvaliacao.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View138]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uCaracteristicaAvaliacao.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View139]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\USituacoesCria.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View140]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\UGrausDificuldade.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View141]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uMotivosDescarte.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View142]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uImportacoesDadoGeral.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View143]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uImportacaoDadoGeral.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View144]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uImportacaoSISBOV.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View145]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uImportacoesSISBOV.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View146]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uTipoOrigemArqImport.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View147]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uTiposOrigemArqImport.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View148]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uRegimesPosseUso.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View149]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uArquivoFTPEnvio.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View150]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uArquivosFTPEnvio.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View151]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uFormasPagamentoIdentificador.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View152]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uOcorrenciaSistema.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View153]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uOcorrenciasSistema.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View154]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uFormasPagamentoOS.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View155]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uFabricanteIdentificador.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View156]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uFabricantesIdentificador.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View157]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uIdentificacoesDuplas.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View158]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uProdutosAcessorios.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View159]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uSituacoesOS.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View160]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uOrdensServico.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View161]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uOrdemServicoResumida.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View162]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uArquivoRemessaPedido.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View163]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uArquivosRemessaPedido.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View164]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uArquivoFTPRetorno.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View165]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uArquivosFTPRetorno.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View166]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uEnderecos.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View167]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uRotinasFTPRetorno.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View168]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uEmailEnvio.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View169]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uEmailsEnvio.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View170]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uSituacoesCodigoSISBOV.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View171]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uTiposEmail.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View172]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uSituacoesEmail.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View173]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uSituacoesFTP.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View174]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uRotinasFTPEnvio.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View175]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uAplicativos.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View176]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uImportacoesFabricante.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View177]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uImportacaoFabricante.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View178]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uSituacoesArqImport.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View179]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uMenus.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View180]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uBoletoBancario.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View181]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uBoletosBancario.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View182]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uIdentificacoesBancarias.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View183]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uDownloads.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View184]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uTiposPropriedades.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View185]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uInventariosAnimais.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View186]
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\uInventariosCodigosSisbov.pas
+CursorX=9
+CursorY=15
+TopLine=1
+LeftCol=1
+
+[TypeLibEditWindow0]
+Create=1
+Visible=0
+State=0
+Left=200
+Top=107
+Width=639
+Height=446
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=631
+ClientHeight=419
+Module=G:\Rodrigo\Desenvolvimento\Fontes\OCX HERDOM\Boitata.tlb
+
+[Watches]
+Count=0
+
+[Breakpoints]
+Count=0
+
+[AddressBreakpoints]
+Count=0
+
+[Main Window]
+Create=1
+Visible=1
+State=0
+Left=0
+Top=0
+Width=1920
+Height=105
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=1912
+ClientHeight=78
+
+[ProjectManager]
+Create=1
+Visible=0
+State=0
+Left=369
+Top=372
+Width=438
+Height=303
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=430
+ClientHeight=279
+TBDockHeight=303
+LRDockWidth=438
+Dockable=1
+
+[AlignmentPalette]
+Create=1
+Visible=0
+State=0
+Left=200
+Top=107
+Width=156
+Height=82
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=150
+ClientHeight=60
+
+[PropertyInspector]
+Create=1
+Visible=1
+State=0
+Left=0
+Top=115
+Width=190
+Height=925
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=182
+ClientHeight=901
+TBDockHeight=925
+LRDockWidth=190
+Dockable=1
+SplitPos=85
+ArrangeBy=Name
+SelectedItem=
+ExpandedItems=
+HiddenCategories=
+
+[ObjectTree]
+Create=1
+Visible=0
+State=0
+Left=0
+Top=105
+Width=190
+Height=376
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=182
+ClientHeight=352
+TBDockHeight=376
+LRDockWidth=190
+Dockable=1
+
+[CodeExplorer@EditWindow0]
+Create=1
+Visible=0
+State=0
+Left=0
+Top=12
+Width=140
+Height=914
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=140
+ClientHeight=914
+TBDockHeight=305
+LRDockWidth=140
+Dockable=1
+
+[MessageView@EditWindow0]
+Create=1
+Visible=1
+State=0
+Left=12
+Top=0
+Width=1908
+Height=104
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=1908
+ClientHeight=104
+TBDockHeight=104
+LRDockWidth=443
+Dockable=1
+
+[DockHosts]
+DockHostCount=0
+
