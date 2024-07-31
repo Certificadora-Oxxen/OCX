@@ -12,7 +12,7 @@ unit Boitata_TLB;
 // ************************************************************************ //
 
 // PASTLWTR : 1.2
-// File generated on 31/07/2024 10:26:11 from Type Library described below.
+// File generated on 31/07/2024 12:38:42 from Type Library described below.
 
 // ************************************************************************  //
 // Type Lib: G:\Meu Drive\Projetos\Herdom\OCX-Boitata\Ocx\Boitata.tlb (1)
@@ -17348,8 +17348,6 @@ type
 // *********************************************************************//
   ICriptografia = interface(IDispatch)
     ['{0FCA780A-760E-4D7C-8964-25CF6CD7EF81}']
-    function Criptografar(const Texto: WideString): WideString; safecall;
-    function Descriptografar(const Texto: WideString): WideString; safecall;
   end;
 
 // *********************************************************************//
@@ -17359,10 +17357,7 @@ type
 // *********************************************************************//
   ICriptografiaDisp = dispinterface
     ['{0FCA780A-760E-4D7C-8964-25CF6CD7EF81}']
-    function Criptografar(const Texto: WideString): WideString; safecall;
-    function Descriptografar(const Texto: WideString): WideString; safecall;
   end;
-
 
 // *********************************************************************//
 // The Class CoSessao provides a Create and CreateRemote method to          

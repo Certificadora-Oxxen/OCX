@@ -1,0 +1,40 @@
+
+# Projeto OCX
+
+
+
+## Configuração do Ambiente
+
+Projeto [HERDOM](https://github.com/Certificadora-Oxxen/HERDOM).
+
+Necessario no ambiente :
+
+```bash
+  - Windows Server 2003 X86 SP2 ou superior.
+  - Servidor IIS 6 ou superior com suporte a ASP Classico e ASP.NET.
+  - SQL Server 2005 ou superior com compatibilidade ao 2000 (80).
+  - Protocolo SSL funcional para navegação TLS 1.1 1.2 e 1.3 e demais padrões SSL.
+  - Deploy do projeto HERDOM preferencialmente em 'D:\HERDOM'
+  - Arquivo de configuração do projeto HERDOM preferencialmente em 'D:\HERDOM\herdom.ini'
+```
+Deploy do Projeto:
+```
+  - Preferencialmente o deploy deve ser feito em 'D:\OCX'
+```
+Registro da biblioteca ActiveX:
+```
+  - regsvr32 D:\OCX\Boitata.ocx
+```
+## Autores
+
+- [Brendown Ferreira de Moura](https://www.github.com/Br3n0k) - Programador responsavel pelas atualizações, manutenção e novas implementações do sistema atualmente,
+- [Engeograph Sistemas] - Responsavel pela manutenção e atualização do sistema de 2008 a 2019.
+- TQI - Empresa responsavel pelo desenvolvimento do projeto, e sua manutenção de 2000 a 2008.
+
+
+## Copyright
+
+Esse projeto pertence e é mantido por:
+
+- [Oxxen Tecnologia em Rastreamento LTDA](https://oxxen.com.br).
+
