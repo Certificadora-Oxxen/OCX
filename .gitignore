@@ -1,8 +1,8 @@
 # Arquivos Temporarios e Cache do Delphi7
 *~*
-*.dcu
-*.bpl
-*.dcp
 
 # Arquivos Compilados do Projeto
 */Build/*
+*.dcu
+*.bpl
+*.dcp
