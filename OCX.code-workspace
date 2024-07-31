@@ -10,10 +10,6 @@
 		"editor.insertSpaces": true,
 		"workbench.iconTheme": "vscode-icons",
 		"workbench.colorCustomizations": {},
-		"omnipascal.delphiInstallationPath": "C:\\Borland\\Delphi7",
-		"omnipascal.defaultDevelopmentEnvironment": "Delphi",
-		"omnipascal.namingConventionString": "pascalCase",
-		"omnipascal.searchPath": "C:\\Borland\\Delphi7\\Lib;C:\\Borland\\Delphi7\\Bin;C:\\Borland\\Delphi7\\Imports;C:\\Borland\\Delphi7\\Projects\\Bpl;C:\\Borland\\Delphi7\\Rave5\\Lib;G:\\Meu Drive\\Projetos\\Herdom\\Lib\\DCU7;G:\\Meu Drive\\Projetos\\Herdom\\Lib\\Bpl",
 		"files.autoGuessEncoding": false,
 		"files.associations": {
 			"*.pass": "pass",
@@ -34,7 +30,12 @@
 			"**/Thumbs.db": true
 		},
 		"git.enableSmartCommit": true,
-		"git.confirmSync": false
+		"git.confirmSync": false,
+		"omnipascal.createBuildScripts": true,
+		"omnipascal.delphiInstallationPath": "C:\\Borland\\Delphi7",
+		"omnipascal.defaultDevelopmentEnvironment": "Delphi",
+		"omnipascal.namingConventionString": "pascalCase",
+		"omnipascal.searchPath": "C:\\Borland\\Delphi7\\Lib;C:\\Borland\\Delphi7\\Bin;C:\\Borland\\Delphi7\\Imports;C:\\Borland\\Delphi7\\Projects;C:\\Borland\\Delphi7\\Projects\\Bpl;C:\\Borland\\Delphi7\\Rave5\\Lib;G:\\Meu Drive\\Projetos\\Herdom\\OCX-Boitata\\Build;G:\\Meu Drive\\Projetos\\Herdom\\OCX-Boitata\\Build\\BPL;G:\\Meu Drive\\Projetos\\Herdom\\OCX-Boitata\\Build\\DCU",
 	},
 	"tasks": {
 		"version": "2.0.0",
