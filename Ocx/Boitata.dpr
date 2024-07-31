@@ -409,7 +409,8 @@ uses
   utipopropriedade in 'utipopropriedade.pas',
   utipopropriedades in 'utipopropriedades.pas',
   uSolicitacaoReimpressao in 'uSolicitacaoReimpressao.pas',
-  uIntSolicitacaoReimpressao in 'uIntSolicitacaoReimpressao.pas';
+  uIntSolicitacaoReimpressao in 'uIntSolicitacaoReimpressao.pas',
+  uCriptografia in 'uCriptografia.pas' {Criptografia: CoClass};
 
 {$E ocx}
 

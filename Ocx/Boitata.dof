@@ -134,6 +134,8 @@ OriginalFilename=
 ProductName=Herdom
 ProductVersion=1.0.0.0
 Comments=
+[Excluded Packages]
+G:\Meu Drive\Projetos\Herdom\Lib\Bpl\dclusr70.bpl=(untitled)
 [HistoryLists\hlUnitAliases]
 Count=1
 Item0=WinTypes=Windows;WinProcs=Windows;DbiTypes=BDE;DbiProcs=BDE;DbiErrs=BDE;

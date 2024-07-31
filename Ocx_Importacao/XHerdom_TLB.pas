@@ -12,10 +12,10 @@ unit XHerdom_TLB;
 // ************************************************************************ //
 
 // PASTLWTR : 1.2
-// File generated on 22/07/2024 22:25:05 from Type Library described below.
+// File generated on 31/07/2024 08:18:06 from Type Library described below.
 
 // ************************************************************************  //
-// Type Lib: \\Herdom\d\Fontes\ActiveX\Ocx Importação xHerdom\XHerdom.tlb (1)
+// Type Lib: G:\Meu Drive\Projetos\Herdom\OCX-Boitata\Ocx_importacao\XHerdom.tlb (1)
 // LIBID: {96B07977-8E10-4B4A-8C22-E1CFC43527E6}
 // LCID: 0
 // Helpfile: 

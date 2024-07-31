@@ -12,16 +12,16 @@ unit XHerdom_TLB;
 // ************************************************************************ //
 
 // PASTLWTR : 1.2
-// File generated on 26/3/2007 17:37:29 from Type Library described below.
+// File generated on 31/07/2024 08:17:43 from Type Library described below.
 
 // ************************************************************************  //
-// Type Lib: C:\Jerry\TQI\Herdom\Aplicação ActiveX\Ocx Importação xHerdom\Versão de desenvolvimento\XHerdom.tlb (1)
+// Type Lib: G:\Meu Drive\Projetos\Herdom\OCX-Boitata\Ocx_importacao\XHerdom.tlb (1)
 // LIBID: {96B07977-8E10-4B4A-8C22-E1CFC43527E6}
 // LCID: 0
 // Helpfile: 
 // HelpString: XHerdom Library
 // DepndLst: 
-//   (1) v2.0 stdole, (C:\WINDOWS\system32\stdole2.tlb)
+//   (1) v2.0 stdole, (C:\Windows\SysWOW64\stdole2.tlb)
 // ************************************************************************ //
 {$TYPEDADDRESS OFF} // Unit must be compiled without type-checked pointers. 
 {$WARN SYMBOL_PLATFORM OFF}

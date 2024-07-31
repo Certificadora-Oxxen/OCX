@@ -12,7 +12,7 @@ unit Boitata_TLB;
 // ************************************************************************ //
 
 // PASTLWTR : 1.2
-// File generated on 31/07/2024 07:57:21 from Type Library described below.
+// File generated on 31/07/2024 10:26:11 from Type Library described below.
 
 // ************************************************************************  //
 // Type Lib: G:\Meu Drive\Projetos\Herdom\OCX-Boitata\Ocx\Boitata.tlb (1)
@@ -22,6 +22,7 @@ unit Boitata_TLB;
 // HelpString: Boitata Library
 // DepndLst: 
 //   (1) v2.0 stdole, (C:\Windows\SysWOW64\stdole2.tlb)
+//   (2) v4.0 StdVCL, (C:\Windows\SysWOW64\stdvcl40.dll)
 // ************************************************************************ //
 {$TYPEDADDRESS OFF} // Unit must be compiled without type-checked pointers. 
 {$WARN SYMBOL_PLATFORM OFF}
@@ -436,6 +437,8 @@ const
   CLASS_TipoPropriedades: TGUID = '{ABBC0E35-DD48-439C-BCA2-4BBDDA6FC542}';
   IID_ISolicitacaoReimpressao: TGUID = '{8351D2FA-E97E-4BB7-81FC-1C7463B159B9}';
   CLASS_SolicitacaoReimpressao: TGUID = '{FA9527D1-6D04-45CA-9364-4A612FA6022F}';
+  IID_ICriptografia: TGUID = '{0FCA780A-760E-4D7C-8964-25CF6CD7EF81}';
+  CLASS_Criptografia: TGUID = '{71B14737-C9FA-4DFC-B370-C47806A37144}';
 type
 
 // *********************************************************************//
@@ -831,6 +834,8 @@ type
   ITipoPropriedadesDisp = dispinterface;
   ISolicitacaoReimpressao = interface;
   ISolicitacaoReimpressaoDisp = dispinterface;
+  ICriptografia = interface;
+  ICriptografiaDisp = dispinterface;
 
 // *********************************************************************//
 // Declaration of CoClasses defined in Type Library                       
@@ -1031,6 +1036,7 @@ type
   TipoPropriedade = ITipoPropriedade;
   TipoPropriedades = ITipoPropriedades;
   SolicitacaoReimpressao = ISolicitacaoReimpressao;
+  Criptografia = ICriptografia;
 
 
 // *********************************************************************//
@@ -17336,6 +17342,29 @@ type
   end;
 
 // *********************************************************************//
+// Interface: ICriptografia
+// Flags:     (4416) Dual OleAutomation Dispatchable
+// GUID:      {0FCA780A-760E-4D7C-8964-25CF6CD7EF81}
+// *********************************************************************//
+  ICriptografia = interface(IDispatch)
+    ['{0FCA780A-760E-4D7C-8964-25CF6CD7EF81}']
+    function Criptografar(const Texto: WideString): WideString; safecall;
+    function Descriptografar(const Texto: WideString): WideString; safecall;
+  end;
+
+// *********************************************************************//
+// DispIntf:  ICriptografiaDisp
+// Flags:     (4416) Dual OleAutomation Dispatchable
+// GUID:      {0FCA780A-760E-4D7C-8964-25CF6CD7EF81}
+// *********************************************************************//
+  ICriptografiaDisp = dispinterface
+    ['{0FCA780A-760E-4D7C-8964-25CF6CD7EF81}']
+    function Criptografar(const Texto: WideString): WideString; safecall;
+    function Descriptografar(const Texto: WideString): WideString; safecall;
+  end;
+
+
+// *********************************************************************//
 // The Class CoSessao provides a Create and CreateRemote method to          
 // create instances of the default interface ISessao exposed by              
 // the CoClass Sessao. The functions are intended to be used by             
@@ -19675,6 +19704,18 @@ type
     class function CreateRemote(const MachineName: string): ISolicitacaoReimpressao;
   end;
 
+// *********************************************************************//
+// The Class CoCriptografia provides a Create and CreateRemote method to          
+// create instances of the default interface ICriptografia exposed by              
+// the CoClass Criptografia. The functions are intended to be used by             
+// clients wishing to automate the CoClass objects exposed by the         
+// server of this typelibrary.                                            
+// *********************************************************************//
+  CoCriptografia = class
+    class function Create: ICriptografia;
+    class function CreateRemote(const MachineName: string): ICriptografia;
+  end;
+
 implementation
 
 uses ComObj;
@@ -21627,6 +21668,16 @@ end;
 class function CoSolicitacaoReimpressao.CreateRemote(const MachineName: string): ISolicitacaoReimpressao;
 begin
   Result := CreateRemoteComObject(MachineName, CLASS_SolicitacaoReimpressao) as ISolicitacaoReimpressao;
+end;
+
+class function CoCriptografia.Create: ICriptografia;
+begin
+  Result := CreateComObject(CLASS_Criptografia) as ICriptografia;
+end;
+
+class function CoCriptografia.CreateRemote(const MachineName: string): ICriptografia;
+begin
+  Result := CreateRemoteComObject(MachineName, CLASS_Criptografia) as ICriptografia;
 end;
 
 end.

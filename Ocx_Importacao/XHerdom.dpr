@@ -11,7 +11,7 @@ uses
   uETabErro in 'uETabErro.pas',
   XHerdom_TLB in 'XHerdom_TLB.pas',
   uFerramentas in 'uFerramentas.pas',
-  Boitata_TLB in 'C:\Borland\Delphi7\Imports\Boitata_TLB.pas';
+  Boitata_TLB in 'G:\Meu Drive\Projetos\Herdom\OCX-Boitata\Ocx\Boitata_TLB.pas';
 
 {$E ocx}
 
