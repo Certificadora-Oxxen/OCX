@@ -12,16 +12,16 @@ unit Boitata_TLB;
 // ************************************************************************ //
 
 // PASTLWTR : 1.2
-// File generated on 20/5/2022 15:56:19 from Type Library described below.
+// File generated on 22/07/2024 22:24:48 from Type Library described below.
 
 // ************************************************************************  //
-// Type Lib: C:\Users\Brendown\Desktop\Herdom\ActiveX\Ocx\Boitata.tlb (1)
+// Type Lib: \\Herdom\d\Fontes\ActiveX\Ocx\Boitata.tlb (1)
 // LIBID: {9733DA08-BE09-41BF-A86E-F18E2FA40D84}
 // LCID: 0
 // Helpfile: 
 // HelpString: Boitata Library
 // DepndLst: 
-//   (1) v2.0 stdole, (C:\WINDOWS\system32\stdole2.tlb)
+//   (1) v2.0 stdole, (C:\Windows\SysWOW64\stdole2.tlb)
 // ************************************************************************ //
 {$TYPEDADDRESS OFF} // Unit must be compiled without type-checked pointers. 
 {$WARN SYMBOL_PLATFORM OFF}

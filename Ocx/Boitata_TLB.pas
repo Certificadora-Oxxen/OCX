@@ -12,10 +12,10 @@ unit Boitata_TLB;
 // ************************************************************************ //
 
 // PASTLWTR : 1.2
-// File generated on 22/07/2024 22:24:48 from Type Library described below.
+// File generated on 29/07/2024 20:51:57 from Type Library described below.
 
 // ************************************************************************  //
-// Type Lib: \\Herdom\d\Fontes\ActiveX\Ocx\Boitata.tlb (1)
+// Type Lib: G:\Meu Drive\Projetos\Herdom\OCX-Boitata\Ocx\Boitata.tlb (1)
 // LIBID: {9733DA08-BE09-41BF-A86E-F18E2FA40D84}
 // LCID: 0
 // Helpfile: 

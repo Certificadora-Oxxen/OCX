@@ -41,6 +41,7 @@ uses
 
 
 const
+  DIR_ROOT = 'D:\HERDOM';
   ARQUIVO_INI = 'D:\HERDOM\herdom.ini';
   ARQUIVO_DEBUG = 'D:\HERDOM\Log\OCX_BRENDOWN.txt';
 
@@ -186,6 +187,7 @@ type
   // Declarações de Variaveis, Funções e Procedures Protegidas da TSessao
   protected
     function Inicializar(const IdCertificadora, NomUsuario, TxtSenha: WideString): Integer; safecall;
+    function Descriptografar(const Texto: WideString): String;
     function Mensagens: IDispatch; safecall;
     function Get_Ativa: WordBool; safecall;
     procedure FinalizarTudo(CodClasseNaoFinalizar: Integer); safecall;
@@ -763,6 +765,12 @@ begin
   end;
 end;
 
+// Função para descriptografar strings no objeto TSessao
+function TSessao.Descriptografar(const Texto: String): String;
+begin
+  Result := FConexao.Descriptografar(Texto);
+end;
+
 function TSessao.Inicializar(const IdCertificadora, NomUsuario, TxtSenha: WideString): Integer;
 var
   FIni : TIniFile;
@@ -779,9 +787,6 @@ begin
   If FAtiva Then Begin
     Result := 0;
     Exit;
-    End
-  Else Begin
-      LogToFile(ARQUIVO_DEBUG, 'FAtiva: False');
   End;
 
   // Define o resultado para -1 para gerar erro
@@ -808,45 +813,208 @@ begin
   
   try
 
-    // Alimenta a Section para verificação com a certificadora recebida do ASP
+    // Alimenta a variavel 'Section' para verificação com a certificadora recebida do ASP
     Section := IdCertificadora;
 
-    // Alimenta o FCaminhoArqivosCertificadora com o IdCertificadora
+    // Alimenta a variavel 'FCaminhoArqivosCertificadora' com o IdCertificadora
     FCaminhoArquivosCertificadora := IdCertificadora;
 
     try
 
       // Verifica a Chave de Sessão para Certificadora
-      If (Not FIni.SectionExists(IdCertificadora)) then
-        begin
-          // Registra no Debug a falha de identificação da Sessão da Certificadora no .ini
-          LogToFile(ARQUIVO_DEBUG, 'Falha ao localizar a Sessão: ' + IdCertificadora);
-          // Registra nas mensagens da OCX
-          FMensagens.Adicionar(1, Self.ClassName, 'icializar', [IdCertificadora]);
-        end
-      Else
-        begin
-          // Registra no Debug a Identificação da Sessão no .ini
-          LogToFile(ARQUIVO_DEBUG, 'Localizar a Sessão: ' + IdCertificadora);
+      If (Not FIni.SectionExists(Section)) then begin
+        // Registra no Debug a falha de identificação da Sessão da Certificadora no .ini
+        LogToFile(ARQUIVO_DEBUG, 'Falha ao localizar a Sessão: ' + Section);
+
+        // Registra nas mensagens da OCX
+        FMensagens.Adicionar(1, Self.ClassName, 'icializar', [Section]);
+        
+        // Interrompe o script
+        Exit;
       End;
       
-      // Verifica Os valores de Servidor do Banco para Certificadora no .ini
-      
-      // Debug Arquivos INI
-      If (Not FIni.ValueExists(IdCertificadora, 'SERVIDOR')) or
-      (Not FIni.ValueExists(IdCertificadora, 'BANCO')) or
-      (Not FIni.ValueExists(IdCertificadora, 'USUARIO_V')) or
-      (Not FIni.ValueExists(IdCertificadora, 'SENHA_V')) or
-      (Not FIni.ValueExists(IdCertificadora, 'GERAR_LOG')) or
-      (Not FIni.ValueExists(IdCertificadora, 'ARQUIVO_LOG')) or
-      (Not FIni.ValueExists(IdCertificadora, 'NIVEL_LOG')) Then 
-      Begin
-        LogToFile(ARQUIVO_DEBUG, 'Falha ao localizar as Variáveis da Sessão: ' + IdCertificadora);
-        FMensagens.Adicionar(1, Self.ClassName, 'Inicializar', [IdCertificadora]);
+      // Verifica os valores de 'SERVIDOR' do Banco para Certificadora no (ARQUIVO_INI).
+      If (Not FIni.ValueExists(Section, 'SERVIDOR')) then begin
+        // Registra no Debug a falha de identificação do valor SERVIDOR para Sessão da Certificadora no (ARQUIVO_INI).
+        LogToFile(ARQUIVO_DEBUG, 'Falha ao localizar o valor de SERVIDOR em: ' + Section);
+
+        // Registra nas mensagens da OCX
+        FMensagens.Adicionar(1, Self.ClassName, 'icializar', [Section]);
+        
+        // Interrompe o script
         Exit;
       End;
 
-      // Verifica se a chave a variavel FCaminhoArquivosCertificadora é vazia
+      // Verifica os valores de 'BANCO' do Banco para Certificadora no (ARQUIVO_INI).
+      If (Not FIni.ValueExists(Section, 'BANCO')) then begin
+        // Registra no Debug a falha de identificação do valor BANCO para Sessão da Certificadora no (ARQUIVO_INI).
+        LogToFile(ARQUIVO_DEBUG, 'Falha ao localizar o valor de BANCO em: ' + Section);
+
+        // Registra nas mensagens da OCX
+        FMensagens.Adicionar(1, Self.ClassName, 'icializar', [Section]);
+        
+        // Interrompe o script
+        Exit;
+      End;
+
+      // Verifica os valores de 'USUARIO_V' para Certificadora no (ARQUIVO_INI).
+      If (Not FIni.ValueExists(Section, 'USUARIO_V')) then begin
+        // Registra no Debug a falha de identificação do valor USUARIO_V para Sessão da Certificadora no (ARQUIVO_INI).
+        LogToFile(ARQUIVO_DEBUG, 'Falha ao localizar o valor de USUARIO_V em: ' + Section);
+
+        // Registra nas mensagens da OCX
+        FMensagens.Adicionar(1, Self.ClassName, 'icializar', [Section]);
+        
+        // Interrompe o script
+        Exit;
+      End;
+
+      // Verifica os valores de 'SENHA_V' para Certificadora no (ARQUIVO_INI).
+      If (Not FIni.ValueExists(Section, 'SENHA_V')) then begin
+        // Registra no Debug a falha de identificação do valor SENHA_V para Sessão da Certificadora no (ARQUIVO_INI).
+        LogToFile(ARQUIVO_DEBUG, 'Falha ao localizar o valor de SENHA_V em: ' + Section);
+
+        // Registra nas mensagens da OCX
+        FMensagens.Adicionar(1, Self.ClassName, 'icializar', [Section]);
+        
+        // Interrompe o script
+        Exit;
+      End;
+
+      // Verifica os valores de 'USUARIO_S' para Certificadora no (ARQUIVO_INI).
+      If (Not FIni.ValueExists(Section, 'USUARIO_S')) then begin
+        // Registra no Debug a falha de identificação do valor USUARIO_S para Sessão da Certificadora no (ARQUIVO_INI).
+        LogToFile(ARQUIVO_DEBUG, 'Falha ao localizar o valor de USUARIO_S em: ' + Section);
+
+        // Registra nas mensagens da OCX
+        FMensagens.Adicionar(1, Self.ClassName, 'icializar', [Section]);
+        
+        // Interrompe o script
+        Exit;
+      End;
+
+      // Verifica os valores de 'SENHA_S' para Certificadora no (ARQUIVO_INI).
+      If (Not FIni.ValueExists(Section, 'SENHA_S')) then begin
+        // Registra no Debug a falha de identificação do valor SENHA_S para Sessão da Certificadora no (ARQUIVO_INI).
+        LogToFile(ARQUIVO_DEBUG, 'Falha ao localizar o valor de SENHA_S em: ' + Section);
+
+        // Registra nas mensagens da OCX
+        FMensagens.Adicionar(1, Self.ClassName, 'icializar', [Section]);
+        
+        // Interrompe o script
+        Exit;
+      End;
+
+      // Verifica os valores de 'GERAR_LOG' para Certificadora no (ARQUIVO_INI).
+      If (Not FIni.ValueExists(Section, 'GERAR_LOG')) then begin
+        // Registra no Debug a falha de identificação do valor GERAR_LOG para Sessão da Certificadora no (ARQUIVO_INI).
+        LogToFile(ARQUIVO_DEBUG, 'Falha ao localizar o valor de GERAR_LOG em: ' + Section);
+
+        // Registra nas mensagens da OCX
+        FMensagens.Adicionar(1, Self.ClassName, 'icializar', [Section]);
+        
+        // Interrompe o script
+        Exit;
+      End;
+
+      // Verifica os valores de 'ARQUIVO_LOG' para Certificadora no (ARQUIVO_INI).
+      If (Not FIni.ValueExists(Section, 'ARQUIVO_LOG')) then begin
+        // Registra no Debug a falha de identificação do valor ARQUIVO_LOG para Sessão da Certificadora no (ARQUIVO_INI).
+        LogToFile(ARQUIVO_DEBUG, 'Falha ao localizar o valor de ARQUIVO_LOG em: ' + Section);
+
+        // Registra nas mensagens da OCX
+        FMensagens.Adicionar(1, Self.ClassName, 'icializar', [Section]);
+
+        // Interrompe o script
+        Exit;
+      End;
+
+      // Verifica os valores de 'NIVEL_LOG' para Certificadora no (ARQUIVO_INI).
+      If (Not FIni.ValueExists(Section, 'NIVEL_LOG')) then begin
+        // Registra no Debug a falha de identificação do valor NIVEL_LOG para Sessão da Certificadora no (ARQUIVO_INI).
+        LogToFile(ARQUIVO_DEBUG, 'Falha ao localizar o valor de NIVEL_LOG em: ' + Section);
+
+        // Registra nas mensagens da OCX
+        FMensagens.Adicionar(1, Self.ClassName, 'icializar', [Section]);
+
+        // Interrompe o script
+        Exit;
+      End;
+
+      // Verifica os valores de 'CAMINHO_ARQUIVOS' para Certificadora no (ARQUIVO_INI).
+      If (Not FIni.ValueExists(Section, 'CAMINHO_ARQUIVOS')) then begin
+        // Caminho de Arquivos não existe no (ARQUIVO_INI)
+        // Registra no Debug a falha de identificação do valor CAMINHO_ARQUIVOS
+        LogToFile(ARQUIVO_DEBUG, 'Na Sessão: ' + Section + ' não há um valor definido para: CAMINHO_ARQUIVOS');
+
+        // Registra nas mensagens da OCX
+        FMensagens.Adicionar(1, Self.ClassName, 'icializar', [Section]);
+
+        // Interrompe o script
+        Exit;
+      End;
+
+      // Verifica os valores de 'LOCK_TIMEOUT' para Certificadora no (ARQUIVO_INI).
+      LockTimeOut := FIni.ReadInteger(IdCertificadora, 'LOCK_TIMEOUT', -1);
+      // Caso o 'LockTimeOut' seja o padrão -1, o define para 90
+      If LockTimeOut = -1 Then Begin
+        LockTimeOut := 90;
+        FIni.WriteInteger(IdCertificadora, 'LOCK_TIMEOUT', LockTimeOut);
+      End;
+
+      // Verifica os valores de 'QUERY_GOVERNOR_COST_LIMIT' para Certificadora no (ARQUIVO_INI).
+      QueryGovernorCostLimit := FIni.ReadInteger(IdCertificadora, 'QUERY_GOVERNOR_COST_LIMIT', -1);
+      // Caso o 'QueryGovernorConstLimit' seja o padrão de -1, o define para 90
+      If QueryGovernorCostLimit = -1 Then Begin
+        QueryGovernorCostLimit := 90;
+        FIni.WriteInteger(IdCertificadora, 'QUERY_GOVERNOR_COST_LIMIT', QueryGovernorCostLimit);
+      End;
+
+      // Verifica os valores de 'PASTA_FTP_IMPORTACAO' para Certificadora no (ARQUIVO_INI).
+      If (Not FIni.ValueExists(Section, 'PASTA_FTP_IMPORTACAO')) then begin
+        // Registra no Debug a falha de identificação do valor PASTA_FTP_IMPORTACAO para Sessão da Certificadora no (ARQUIVO_INI).
+        LogToFile(ARQUIVO_DEBUG, 'Falha ao localizar o valor de PASTA_FTP_IMPORTACAO em: ' + Section);
+
+        // Registra nas mensagens da OCX
+        FMensagens.Adicionar(1, Self.ClassName, 'icializar', [Section]);
+
+        // Interrompe o script
+        Exit;
+      End;
+
+      // Verifica os valores de 'USUARIO_SIS' para Certificadora no (ARQUIVO_INI).
+      If (Not FIni.ValueExists(Section, 'USUARIO_SIS')) then begin
+        // Registra no Debug a falha de identificação do valor USUARIO_SIS para Sessão da Certificadora no (ARQUIVO_INI).
+        LogToFile(ARQUIVO_DEBUG, 'Falha ao localizar o valor de USUARIO_SIS em: ' + Section);
+
+        // Registra nas mensagens da OCX
+        FMensagens.Adicionar(1, Self.ClassName, 'icializar', [Section]);
+
+        // Interrompe o script
+        Exit;
+      End;
+
+      // Verifica os valores de 'USUARIO_SIS' para Certificadora no (ARQUIVO_INI).
+      If (Not FIni.ValueExists(Section, 'USUARIO_SIS')) then begin
+        // Registra no Debug a falha de identificação do valor USUARIO_SIS para Sessão da Certificadora no (ARQUIVO_INI).
+        LogToFile(ARQUIVO_DEBUG, 'Falha ao localizar o valor de USUARIO_SIS em: ' + Section);
+
+        // Registra nas mensagens da OCX
+        FMensagens.Adicionar(1, Self.ClassName, 'icializar', [Section]);
+
+        // Interrompe o script
+        Exit;
+      End;
+
+      // Janela para Debug
+      // Alimenta as variaveis
+      ServerName := Descriptografar(FIni.ReadString(Section, 'SERVIDOR', ''));
+      UserName := Descriptografar(FIni.ReadString(Section, 'USUARIO_S', ''));
+      Password := Descriptografar(FIni.ReadString(Section, 'SENHA_S', ''));
+      Banco := Descriptografar(FIni.ReadString(Section, 'BANCO', ''));
+      FCaminhoArquivosCertificadora := FIni.ReadString(Section, 'CAMINHO_ARQUIVOS', '');
+
+      // Verifica se a variavel 'FCaminhoArquivosCertificadora' é vazia
       If FCaminhoArquivosCertificadora = '' Then Begin
         // Gera mensagem (não sei para que serve #brendown)
         FMensagens.Adicionar(1, Self.ClassName, 'Inicializar', [IdCertificadora]);
@@ -858,23 +1026,19 @@ begin
         FCaminhoArquivosCertificadora := FCaminhoArquivosCertificadora + '\';
       End;
 
-      // Alimenta FConexão com o Caminho para os arquivos da certificadora
+      // Alimenta 'FConexão' com o Caminho para os arquivos da certificadora
       FConexao.CaminhoArquivosCertificadora := FCaminhoArquivosCertificadora;
 
-      LockTimeOut := FIni.ReadInteger(IdCertificadora, 'LOCK_TIMEOUT', -1);
+      // Verificar se as variaveis: 'ServerName' 'UserName' 'Password' 'Banco', estão sendo alimentadas antes da utilização pela FConexão.Conectar
+      //LogToFile(ARQUIVO_DEBUG, 'ServerName: ' + ServerName);
+      //LogToFile(ARQUIVO_DEBUG, 'UserName: ' + UserName);
+      //LogToFile(ARQUIVO_DEBUG, 'Password: ' + Password);
+      //LogToFile(ARQUIVO_DEBUG, 'Banco: ' + Banco);
+      //LogToFile(ARQUIVO_DEBUG, 'CAMINHO_ARQUIVOS: ' + FCaminhoArquivosCertificadora);
+      //LogToFile(ARQUIVO_DEBUG, 'LockTimeOut: ' + IntToStr(LockTimeOut));
+      //LogToFile(ARQUIVO_DEBUG, 'QueryGovernorCostLimit: ' + IntToStr(QueryGovernorCostLimit));
 
-      If LockTimeOut = -1 Then Begin
-        LockTimeOut := 90;
-        FIni.WriteInteger(IdCertificadora, 'LOCK_TIMEOUT', LockTimeOut);
-      End;
-
-      QueryGovernorCostLimit := FIni.ReadInteger(IdCertificadora, 'QUERY_GOVERNOR_COST_LIMIT', -1);
-      If QueryGovernorCostLimit = -1 Then Begin
-        QueryGovernorCostLimit := 90;
-        FIni.WriteInteger(IdCertificadora, 'QUERY_GOVERNOR_COST_LIMIT', QueryGovernorCostLimit);
-      End;
-
-      // Tenta conexão com o banco utilizando as informações encontrdas no .ini
+      // Inicia a conexão com o banco de dados utilizando os dados obtidos no ARQUIVO_INI
       Ret := FConexao.Conectar(ServerName, UserName, Password, Banco, 'S_'+Trim(UpperCase(IdCertificadora+'_'+NomUsuario)), LockTimeOut, QueryGovernorCostLimit);
 
       // Verifica o status da conexão do Ret, se é diferente de '0'
@@ -912,7 +1076,6 @@ begin
       Begin
         GerarLog := FIni.ReadBool(IdCertificadora, 'GERAR_LOG', True);
         NivelLog := FIni.ReadInteger(IdCertificadora, 'NIVEL_LOG', 3);
-        LogToFile(ARQUIVO_DEBUG, 'Falha na caralha do banco de dados dessa buceta');
       End;
 
       // Inicializa Objeto Mensagens

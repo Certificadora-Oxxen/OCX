@@ -187,6 +187,7 @@ type
   // Declarações de Variaveis, Funções e Procedures Protegidas da TSessao
   protected
     function Inicializar(const IdCertificadora, NomUsuario, TxtSenha: WideString): Integer; safecall;
+    function Descriptografar(const Texto: String): String;
     function Mensagens: IDispatch; safecall;
     function Get_Ativa: WordBool; safecall;
     procedure FinalizarTudo(CodClasseNaoFinalizar: Integer); safecall;
@@ -762,6 +763,12 @@ begin
   finally
     CloseFile(LogFile);
   end;
+end;
+
+// Função para descriptografar strings no objeto TSessao
+function TSessao.Descriptografar(const Texto: String): String;
+begin
+  Result := Descriptografar(Texto);
 end;
 
 function TSessao.Inicializar(const IdCertificadora, NomUsuario, TxtSenha: WideString): Integer;

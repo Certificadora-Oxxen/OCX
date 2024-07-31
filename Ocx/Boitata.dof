@@ -90,10 +90,10 @@ MaxStackSize=1048576
 ImageBase=4194304
 ExeDescription=
 [Directories]
-OutputDir=\\Herdom\d\Fontes\ActiveX\Ocx\Compilado
-UnitOutputDir=\\Herdom\d\Fontes\ActiveX\Ocx\Compilado\Unit
-PackageDLLOutputDir=\\Herdom\d\Fontes\ActiveX\Ocx\Compilado\BPL
-PackageDCPOutputDir=
+OutputDir=G:\Meu Drive\Projetos\Herdom\OCX-Boitata\Build
+UnitOutputDir=G:\Meu Drive\Projetos\Herdom\OCX-Boitata\Build\DCU
+PackageDLLOutputDir=G:\Meu Drive\Projetos\Herdom\OCX-Boitata\Build\BPL
+PackageDCPOutputDir=G:\Meu Drive\Projetos\Herdom\OCX-Boitata\Build\DCP
 SearchPath=
 Packages=vcl;rtl;vclx;indy;inet;xmlrtl;vclie;inetdbbde;inetdbxpress;dbrtl;dsnap;dsnapcon;vcldb;soaprtl;VclSmp;dbexpress;dbxcds;inetdb;bdertl;vcldbx;webdsnap;websnap;adortl;ibxpress;teeui;teedb;tee;dss;visualclx;visualdbclx;vclactnband;vclshlctrls;IntrawebDB_50_70;Intraweb_50_70;dclOfficeXP
 Conditionals=
@@ -126,7 +126,7 @@ CodePage=1252
 [Version Info Keys]
 CompanyName=NokTech Sistemas
 FileDescription=Brendown Ferreira
-FileVersion=1.12.8.1
+FileVersion=1.12.8.0
 InternalName=
 LegalCopyright=
 LegalTrademarks=
@@ -138,11 +138,17 @@ Comments=
 Count=1
 Item0=WinTypes=Windows;WinProcs=Windows;DbiTypes=BDE;DbiProcs=BDE;DbiErrs=BDE;
 [HistoryLists\hlUnitOutputDirectory]
-Count=1
-Item0=\\Herdom\d\Fontes\ActiveX\Ocx\Compilado\Unit
+Count=2
+Item0=G:\Meu Drive\Projetos\Herdom\OCX-Boitata\Build\DCU
+Item1=\\Herdom\d\Fontes\ActiveX\Ocx\Compilado\Unit
 [HistoryLists\hlOutputDirectorry]
-Count=1
-Item0=\\Herdom\d\Fontes\ActiveX\Ocx\Compilado
+Count=2
+Item0=G:\Meu Drive\Projetos\Herdom\OCX-Boitata\Build
+Item1=\\Herdom\d\Fontes\ActiveX\Ocx\Compilado
 [HistoryLists\hlBPLOutput]
+Count=2
+Item0=G:\Meu Drive\Projetos\Herdom\OCX-Boitata\Build\BPL
+Item1=\\Herdom\d\Fontes\ActiveX\Ocx\Compilado\BPL
+[HistoryLists\hlDCPOutput]
 Count=1
-Item0=\\Herdom\d\Fontes\ActiveX\Ocx\Compilado\BPL
+Item0=G:\Meu Drive\Projetos\Herdom\OCX-Boitata\Build\DCP
