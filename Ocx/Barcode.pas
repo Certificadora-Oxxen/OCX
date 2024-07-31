@@ -322,8 +322,7 @@ implementation
 {$endif}
 
 
-uses WinProcs, WinTypes, SysUtils, bcchksum,
-   math;
+uses WinProcs, WinTypes, SysUtils, bcchksum, math;
 
 
 {$DEFINE ASSERT_SUPPORTED}

@@ -12,7 +12,7 @@ unit Boitata_TLB;
 // ************************************************************************ //
 
 // PASTLWTR : 1.2
-// File generated on 29/07/2024 20:51:57 from Type Library described below.
+// File generated on 31/07/2024 07:57:21 from Type Library described below.
 
 // ************************************************************************  //
 // Type Lib: G:\Meu Drive\Projetos\Herdom\OCX-Boitata\Ocx\Boitata.tlb (1)

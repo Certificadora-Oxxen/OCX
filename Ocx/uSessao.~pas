@@ -187,7 +187,6 @@ type
   // Declarações de Variaveis, Funções e Procedures Protegidas da TSessao
   protected
     function Inicializar(const IdCertificadora, NomUsuario, TxtSenha: WideString): Integer; safecall;
-    function Descriptografar(const Texto: WideString): String;
     function Mensagens: IDispatch; safecall;
     function Get_Ativa: WordBool; safecall;
     procedure FinalizarTudo(CodClasseNaoFinalizar: Integer); safecall;
@@ -576,13 +575,10 @@ type
     function Get_SolicitacaoReimpressao: ISolicitacaoReimpressao; safecall;
     function InicializarSolicitacaoReimpressao: Integer; safecall;
     procedure FinalizarSolicitacaoReimpressao; safecall;
-  
-  // Declarações de Variaveis, Funções e Procedures publicas da TSessao
+
   public
     procedure AfterConstruction; override;
     procedure BeforeDestruction; override;
-
-    // Debug #Brendown
     procedure LogToFile(const FileName, LogMessage: string);
   end;
 
@@ -763,12 +759,6 @@ begin
   finally
     CloseFile(LogFile);
   end;
-end;
-
-// Função para descriptografar strings no objeto TSessao
-function TSessao.Descriptografar(const Texto: String): String;
-begin
-  Result := FConexao.Descriptografar(Texto);
 end;
 
 function TSessao.Inicializar(const IdCertificadora, NomUsuario, TxtSenha: WideString): Integer;
