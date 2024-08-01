@@ -1,3 +1,5 @@
+setlocal DisableDelayedExpansion
+@set n0kcompiler=1.0
 @echo off
 
 REM Definição do charset
@@ -7,9 +9,6 @@ if errorlevel 1 (
     pause
     exit /b 1
 )
-
-REM Definição do local de trabalho
-setlocal
 
 REM Definição das constantes
 set "PROJECT_FILE=Boitata.dpr"
