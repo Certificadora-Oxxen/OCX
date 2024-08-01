@@ -857,7 +857,7 @@ const tabelle_EAN_B:array['0'..'9'] of string =
   ('1507')     { 9 }
   );
 
-{Zuordung der Paraitaetsfolgen für EAN13}
+{Zuordung der Paraitaetsfolgen fï¿½r EAN13}
 const tabelle_ParityEAN13:array[0..9, 1..6] of char =
   (
   ('A', 'A', 'A', 'A', 'A', 'A'),    { 0 }
@@ -991,12 +991,12 @@ begin
       else
         c := '0';
 
-    {Falls i ungerade ist dann mache Lücke zu Strich}
+    {Falls i ungerade ist dann mache Lï¿½cke zu Strich}
       if odd(j) then
         c := chr(ord(c)+5);
       result := result + c;
     end;
-   result := result + '0';   {Lücke zwischen den Zeichen}
+   result := result + '0';   {Lï¿½cke zwischen den Zeichen}
   end;
 
   result := result + '70505';   {Stopcode}

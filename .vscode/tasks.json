@@ -1,0 +1,15 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "OCX Boitata",
+            "type": "shell",
+            "command": "g:\\Meu Drive\\Projetos\\Herdom\\OCX-Boitata\\Build\\OCXBoitata.exe",
+            "windows": {
+                "presentation": {
+                    "style": "powerShell"
+                }
+            }
+        }
+    ]
+}
