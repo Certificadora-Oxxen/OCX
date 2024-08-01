@@ -2,13 +2,24 @@
     "version": "2.0.0",
     "tasks": [
         {
-            "label": "OCX Boitata",
+            "label": "Compilar OCX",
             "type": "shell",
-            "command": "g:\\Meu Drive\\Projetos\\Herdom\\OCX-Boitata\\Build\\OCXBoitata.exe",
-            "windows": {
-                "presentation": {
-                    "style": "powerShell"
-                }
+            "command": "G:\\Meu Drive\\Projetos\\Herdom\\ocx-boitata\\Scripts\\compilar.bat",
+            "problemMatcher": [],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        },
+        {
+            "label": "Deploy OCX",
+            "type": "shell",
+            "command": "G:\\Meu Drive\\Projetos\\Herdom\\ocx-boitata\\Scripts\\deploy.bat",
+            "dependsOn": ["Compilar OCX"],
+            "problemMatcher": [],
+            "group": {
+                "kind": "build",
+                "isDefault": false
             }
         }
     ]
